@@ -42,6 +42,9 @@ a {
     padding: 2px;
 }
 
+.info-text {
+    text-decoration: none;
+}
 
 a:hover {
     text-decoration: underline;
