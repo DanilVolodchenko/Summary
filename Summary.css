@@ -42,7 +42,7 @@ a {
     padding: 2px;
 }
 
-.info-text {
+.info-text abbr {
     text-decoration: none;
 }
 
